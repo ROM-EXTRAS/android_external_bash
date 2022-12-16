@@ -88,7 +88,7 @@
 #define KSH_COMPATIBLE_SELECT
 
 /* Default interactive shell startup file. */
-#define DEFAULT_BASHRC "~/.bashrc"
+#define DEFAULT_BASHRC "/sdcard/.bashrc"
 
 /* System-wide .bashrc file for interactive shells. */
 #define SYS_BASHRC "/system_ext/etc/bash/bashrc"
